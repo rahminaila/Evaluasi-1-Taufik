@@ -2,7 +2,7 @@ package bcgen9.day12;
 
 import java.util.Scanner;
 
-public class UjianJavaNo2 {
+public class Soal2 {
 	Scanner s= new Scanner(System.in);
 	int n;
 	int[] arrKacamata;
@@ -86,7 +86,7 @@ public class UjianJavaNo2 {
 	}
 	
 	public static void main(String[] args) {
-		UjianJavaNo2 run = new UjianJavaNo2();
+		Soal2 run = new Soal2();
 		run.print();
 	}
 
