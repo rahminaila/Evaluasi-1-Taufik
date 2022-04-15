@@ -2,7 +2,7 @@ package bcgen9.day12;
 
 import java.util.Scanner;
 
-public class UjianJavaNo1 {
+public class Soal1 {
 	Scanner s=new Scanner(System.in);
 	int n;
 	public int getN() {
@@ -36,7 +36,7 @@ public class UjianJavaNo1 {
 		deretGanjil2();
 	}
 	public static void main(String[] args) {
-		UjianJavaNo1 run = new UjianJavaNo1();
+		Soal1 run = new Soal1();
 		run.print();
 	}
 
